@@ -2,7 +2,7 @@
 
 hanoi.py is the python script (main file). Run it with: 
 
-python hanoi.py --disks number_of_disks
+python hanoi.py --disks n, where n is the number of disks
 
 If omitted, the number of disks defaults to 3.
   
