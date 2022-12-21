@@ -1,0 +1,8 @@
+(move-d-to-t disk1 disk2 tower1 tower3)
+(move-d-to-t disk2 disk3 tower1 tower2)
+(move-t-to-d disk1 disk2 tower3 tower2)
+(move-t-to-t disk3 tower1 tower3)
+(move-d-to-t disk1 disk2 tower2 tower1)
+(move-t-to-d disk2 disk3 tower2 tower3)
+(move-t-to-d disk1 disk2 tower1 tower3)
+; cost = 7 (unit cost)
